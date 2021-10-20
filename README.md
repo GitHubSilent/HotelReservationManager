@@ -1,7 +1,8 @@
 # Hotel Reservation Manager
 
 Hotel Reservation Manager is a team project that consists of 4 people.
-The requirements of this project:
+- To create an integrated information system for hotel reservations, which must store and process data for the guests in their respective hotel rooms.
+- The system must contain the following stuff:
 
 - The three names of the guests
 - Date of arrival
@@ -11,3 +12,11 @@ The requirements of this project:
 - Plan of hotel room
 - Phone number or email for contact
 - Method of payment
+
+System requirements: 
+OS: Windows 7/10 (64bit)
+Processor: 2.6GHz Intel Core i5-750 or 3.2GHz AMD Phenom II X4 955
+Memory: 4GB RAM
+Graphics card: NVIDIA GeForce GTX 460 or AMD Radeon HD5850 (1GB VRAM)
+DirectX: 10/11
+Network: Broadband Internet Connection
