@@ -1,6 +1,12 @@
 # Hotel Reservation Manager
 
 Hotel Reservation Manager is a team project that consists of 4 people.
+People working on this project:
+1. [Jimbo](https://github.com/Jimbo2003)
+2. [nikstera](https://github.com/nikstera)
+3. [Crossyed](https://github.com/Crossyed)
+
+## Project requirements:
 - To create an integrated information system for hotel reservations in, which must store and process data for the guests in their respective hotel rooms.
 - The system must contain the following stuff:
 
@@ -13,7 +19,9 @@ Hotel Reservation Manager is a team project that consists of 4 people.
 - Phone number or email for contact
 - Method of payment
 
-# System requirements: 
+#
+
+### System requirements: 
 - OS: Windows 7/10 (64bit)
 - Processor: 2.6GHz Intel Core i5-750 or 3.2GHz AMD Phenom II X4 955
 - Memory: 4GB RAM
