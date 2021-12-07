@@ -12,7 +12,7 @@ People working on this project:
 ## Project requirements:
 - To create an integrated information system application for hotel reservations, in which we store and process info and data for the guests in their respective hotel rooms.
 
-**The application must contain the following stuff:**
+**The system must contain the following stuff:**
 * The three names of the guests
 * Date of arrival
 * Date of departure
