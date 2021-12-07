@@ -5,7 +5,7 @@ People working on this project:
 1. [Silent](https://github.com/GitHubSilent) a.k.a Martin
 2. [Jimbo](https://github.com/Jimbo2003) a.k.a Simeon
 3. [nikstera](https://github.com/nikstera) a.k.a Nikola
-4. [Crossyed](https://github.com/Crossyed) a.k.a Slavi
+4. [Crossyed](https://github.com/Crossyed) a.k.a Stanislav
 
 ## Project requirements:
 - To create an integrated information system for hotel reservations in, which must store and process data for the guests in their respective hotel rooms.
