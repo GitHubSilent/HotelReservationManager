@@ -2,12 +2,12 @@
 
 Hotel Reservation Manager is a team project that consists of 4 people.
 People working on this project:
-|Nickname on GitHub|Name|
+|Name|Nickname and link to GitHub page|
 |:----:|:----:|
-|Silent - (https://github.com/GitHubSilent)| a.k.a Martin |
-|Jimbo - (https://github.com/Jimbo2003)| a.k.a Simeon |
-|nikstera - (https://github.com/nikstera)| a.k.a Nikola |
-|Crossyed - (https://github.com/Crossyed)| a.k.a Stanislav |
+|Martin | Silent - (https://github.com/GitHubSilent) |
+|Simeon | Jimbo - (https://github.com/Jimbo2003) |
+|Nikola | nikstera - (https://github.com/nikstera) |
+|Stanislav | Crossyed - (https://github.com/Crossyed) |
 
 ## Project requirements:
 - To create an integrated information system application for hotel reservations, in which we store and process info and data for the guests in their respective hotel rooms.
@@ -22,7 +22,7 @@ People working on this project:
 * Phone number or email for contact
 * Method of payment
 
-## System requirements
+## System requirements:
 |Specification|Name of part|
 |:----:|:----:|
 |OS: | Windows 7/10 (64bit) |
