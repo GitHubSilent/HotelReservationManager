@@ -2,12 +2,12 @@
 
 Hotel Reservation Manager is a team project that consists of 4 people.
 People working on this project:
-|Name|Nickname and link to GitHub page|
+|Name|GitHub page|
 |:----:|:----:|
-|Martin | Silent - (https://github.com/GitHubSilent) |
-|Simeon | Jimbo - (https://github.com/Jimbo2003) |
-|Nikola | nikstera - (https://github.com/nikstera) |
-|Stanislav | Crossyed - (https://github.com/Crossyed) |
+|Martin | (https://github.com/GitHubSilent) |
+|Simeon | (https://github.com/Jimbo2003) |
+|Nikola | (https://github.com/nikstera) |
+|Stanislav | (https://github.com/Crossyed) |
 
 ## Project requirements:
 - To create an integrated information system application for hotel reservations, in which we store and process info and data for the guests in their respective hotel rooms.
@@ -25,9 +25,9 @@ People working on this project:
 ## System requirements:
 |Specification|Name of part|
 |:----:|:----:|
-|OS: | Windows 7/10 (64bit) |
-|Processor: | 2.6GHz Intel Core i5-750 or 3.2GHz AMD Phenom II X4 955 |
-|Memory: | 4GB RAM |
-|Graphics card: | NVIDIA GeForce GTX 460 or AMD Radeon HD5850 (1GB VRAM) |
-|DirectX: | 10/11 |
-|Network: | Broadband Internet Connection |
+|**OS:** | Windows 7/10 (64bit) |
+|**Processor:** | 2.6GHz Intel Core i5-750 or 3.2GHz AMD Phenom II X4 955 |
+|**Memory:** | 4GB RAM |
+|**Graphics card:** | NVIDIA GeForce GTX 460 or AMD Radeon HD5850 (1GB VRAM) |
+|**DirectX:** | 10/11 |
+|**Network:** | Broadband Internet Connection |
