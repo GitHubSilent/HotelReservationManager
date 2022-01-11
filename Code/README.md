@@ -1,17 +1,3 @@
-# Hotel Reservation Manager
-
-Hotel Reservation Manager is a team project that consists of 4 people.
-
-Trello board URL: https://trello.com/b/FfoNBP29/hotel-reservation-manager
-
-People working on this project:
-|Name|GitHub page|
-|:----:|:----:|
-|Martin | (https://github.com/GitHubSilent) |
-|Simeon | (https://github.com/Jimbo2003) |
-|Nikola | (https://github.com/nikstera) |
-|Stanislav | (https://github.com/Crossyed) |
-
 ## Project requirements:
 - To create an integrated information system application for hotel reservations, in which we store and process info and data for the guests in their respective hotel rooms.
 
