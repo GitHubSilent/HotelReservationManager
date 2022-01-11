@@ -1,6 +1,9 @@
 # Hotel Reservation Manager
 
 Hotel Reservation Manager is a team project that consists of 4 people.
+
+Trello board URL: https://trello.com/b/FfoNBP29/hotel-reservation-manager
+
 People working on this project:
 |Name|GitHub page|
 |:----:|:----:|
